@@ -1,0 +1,17 @@
+{
+  "users":[
+    {
+      "name":"Bob",
+      "email":"bob@example.com",
+      "recieve-newsletters":true
+    },
+      {
+        "name":"Jen",
+        "email":"jen@example.com",
+        "recieve-newsletters":false
+      },
+  ],
+  "settings":{
+    "send-newsletter":true
+  }
+}
