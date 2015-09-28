@@ -1,0 +1,28 @@
+{
+  "name": "learn-node-with-apis",
+  "version": "1.0.0",
+  "description": "An API exercise from Learn-X-With-APIs to demonstrate Node.js codebases.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therebelrobot/learn-node-with-apis.git"
+  },
+  "keywords": [
+    "api",
+    "learn"
+  ],
+  "author": "Trent Oswald <trentoswald@therebelrobot.com> (@therebelrobot)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/therebelrobot/learn-node-with-apis/issues"
+  },
+  "homepage": "https://github.com/therebelrobot/learn-node-with-apis#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "lodash": "^3.10.1",
+    "unirest": "^0.4.2"
+  }
+}
